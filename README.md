@@ -1,5 +1,5 @@
 # Analysis_On_HOLY_QURAN
-The Holy Quran is the central text for 1.5 billion Muslims around the world. It literally means "The Recitation." It is undoubtedly the finest work in Arabic literature and revealed by Allah (God) to His Messenger Prophet Muhammed (Peace Be Upon Him) through angel Gabriel. It was revealed verbally from December 22, 609 (AD) to 632 AD (when Prophet Muhammed (Peace Be Upon Him) died)
+The Holy Quran is the central text for 1.5 billion Muslims around the world. It literally means "The Recitation." It is undoubtedly the finest work in Arabic literature and revealed by Allah (God) to His Messenger Prophet Muhammed (Peace Be Upon Him) through angel Gabriel. It was revealed verbally from December 22, 609 (AD) to 632 AD (On Prophet Muhammed (Peace Be Upon Him))
 
 The book is divided into 30 parts, 114 Chapters and 6,000+ verses.
 
